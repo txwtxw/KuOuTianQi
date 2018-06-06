@@ -1,0 +1,9 @@
+<litepal>
+    <dbname value="KuOu"/>
+    <version value="1"/>
+    <list>
+        <mapping class="android.com.kuoutianqi.database.Province"/>
+        <mapping class="android.com.kuoutianqi.database.City"/>
+        <mapping class="android.cpm.kuoutianqi.database.County"/>
+    </list>
+</litepal>
